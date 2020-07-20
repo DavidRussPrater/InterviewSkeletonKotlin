@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InterviewSkeleton</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="enter_new_todo">Enter New Todo:</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="delete_button">X</string>
+</resources>
